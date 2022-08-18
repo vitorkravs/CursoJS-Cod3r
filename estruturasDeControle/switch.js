@@ -14,9 +14,6 @@ const imprimirNota = function(nota){
         case 3: case 2: case 1: case 0:
             console.log('Reprovado')
             break
-        case "teste":
-            console,log('É uma string, e não uma nota!!!')
-            break
         default:
             console.log('Nota invalida') 
     }
@@ -29,4 +26,3 @@ imprimirNota(2.33)
 imprimirNota(-1)
 imprimirNota('epa')
 imprimirNota()
-imprimirNota("teste")
