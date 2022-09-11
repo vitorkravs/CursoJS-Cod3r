@@ -16,7 +16,7 @@ const {logradouro: {rua, numero, cep}} = sobre
 console.log(rua, numero, cep)
 
 const {nome: name, idade: years} = sobre
-console.log(name, years)
+console.log(nome, years)
 
 const {estadoCivil, certidaoDeNascimento = true} = sobre
 console.log(estadoCivil, certidaoDeNascimento)
