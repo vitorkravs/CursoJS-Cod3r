@@ -11,4 +11,3 @@ function receberPrimeiroEUltimoElemneto([primeiroElemnto, ...elementosRestantes]
 console.log(receberPrimeiroEUltimoElemneto(array1))
 console.log(receberPrimeiroEUltimoElemneto(array2))
 console.log(receberPrimeiroEUltimoElemneto(array3))
-console.log(receberPrimeiroEUltimoElemneto(array1))
