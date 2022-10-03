@@ -8,3 +8,4 @@ function removerVogais(frase) {
 console.log(removerVogais('vitor'))
 console.log(removerVogais('gabi'))
 console.log(removerVogais('vitor cesar kravszenko'))
+console.log(removerVogais('vitor kravszenko'))
