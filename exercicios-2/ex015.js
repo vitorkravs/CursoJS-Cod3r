@@ -11,7 +11,7 @@ function receberSomenteOsParesDeIndicesPares(numeros) {
     return resultado 
   }
 
-const array1 = [5, 1, 2, 3, 4]
+const array1 = [5, 1, 2, 3, 4] // Lembrando que sempre começa com índice 0
 const array2 = [10, 1, 22, 3, 44]
 
 console.log(receberSomenteOsParesDeIndicesPares(array1))
